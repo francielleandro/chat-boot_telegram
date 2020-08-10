@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot desafio Carrefour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Carrefour",
+    "Telegram",
+    "DIO",
+    "Bot"
+  ],
+  "author": "Franciel Leandro",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
